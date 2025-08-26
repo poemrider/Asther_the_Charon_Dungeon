@@ -15,7 +15,7 @@ allprojects {
         appPackageName = 'com.asetherfan.asetherthecharondungeon'
 
         appVersionCode = 859
-        appVersionName = '2.0.0'
+        appVersionName = '2.0.1'
 
         appJavaCompatibility = JavaVersion.VERSION_1_8
 

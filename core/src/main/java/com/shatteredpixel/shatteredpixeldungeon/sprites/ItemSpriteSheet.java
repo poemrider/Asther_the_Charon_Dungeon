@@ -331,18 +331,18 @@ public class ItemSpriteSheet {
 		
 		assignItemRect(FISHING_SPEAR,   11, 11);
 		assignItemRect(SHURIKEN,        11, 9);
-		assignItemRect(THROWING_CLUB,   12, 12);
+		assignItemRect(THROWING_CLUB,   6, 8);
 		
-		assignItemRect(THROWING_SPEAR,  13, 13);
+		assignItemRect(THROWING_SPEAR,  16, 16);
 		assignItemRect(BOLAS,           15, 14);
 		assignItemRect(KUNAI,           15, 15);
 		
-		assignItemRect(JAVELIN,         16, 16);
+		assignItemRect(JAVELIN,         13, 13);
 		assignItemRect(TOMAHAWK,        13, 13);
 		assignItemRect(BOOMERANG,       15, 14);
 		
 		assignItemRect(TRIDENT,         9, 9);
-		assignItemRect(THROWING_HAMMER, 6, 8);
+		assignItemRect(THROWING_HAMMER, 13, 12);
 		assignItemRect(FORCE_CUBE,      11, 11);
 	}
 	
@@ -378,7 +378,7 @@ public class ItemSpriteSheet {
 	public static final int ARMOR_DUELIST   = ARMOR+9;
 	public static final int ARMOR_CLERIC    = ARMOR+10;
 	static{
-		assignItemRect(ARMOR_CLOTH,     11, 12);
+		assignItemRect(ARMOR_CLOTH,     15, 12);
 		assignItemRect(ARMOR_LEATHER,   14, 13);
 		assignItemRect(ARMOR_MAIL,      14, 12);
 		assignItemRect(ARMOR_SCALE,     14, 11);
